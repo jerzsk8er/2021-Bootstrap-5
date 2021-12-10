@@ -18,7 +18,11 @@ img {
     padding-top: 40px;
 }
 
+.header {
+    font-size: 20px;
+}
 
 .headerb {
+    font-size: 20px;
     color: #0476F2;
 }
